@@ -44,7 +44,7 @@ const GoodScreen = (props) => {
     <View style={styles.goodListScreen}>
       <Heading title="小商家(git monitor version)" />
       <View style={styles.switchButtonContainer}>
-        <Heading title="商品清單" />
+        <Heading title="商品清單(新)" />
         <Button title="客戶" onPress={props.goCustomer} color="crimson" />
         <Button title="訂單" onPress={props.goOrder} color="crimson" />
       </View>
