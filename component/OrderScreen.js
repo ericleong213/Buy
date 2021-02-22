@@ -19,7 +19,7 @@ const OrderScreen = (props) => {
         <Button title="商品" onPress={props.goGood} color="crimson" />
       </View>
       <Button
-        title="+增加訂單"
+        title="+增加訂單(master)"
         onPress={() => setVisible(true)}
         color="crimson"
       />
