@@ -1,0 +1,8 @@
+{
+    "customerList":[
+    {"id": "sldksddk", "name": "Yuki", "address": "澳門", "bought": "口紅", "deposit": "200", "sent": "已發"},
+    {"id": "s1123a6s", "name": "Eric", "address": "澳門", "bought": "面膜", "deposit": "400", "sent": "未發"},
+    {"id": "sl42197s5", "name": "Sarah", "address": "澳門", "bought": "皮帶", "deposit": "2000", "sent": "已發"}
+]
+}
+
