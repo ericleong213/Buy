@@ -11,7 +11,7 @@ const OrderScreen = (props) => {
       <Heading title="小商家" />
       <View style={styles.switchButtonContainer}>
         <Heading title="訂單清單(入data)" />
-        <Button title="客戶" onPress={props.goCustomer} color="crimson" />
+        <Button title="客戶(新)" onPress={props.goCustomer} color="crimson" />
         <Button title="商品" onPress={props.goGood} color="crimson" />
       </View>
       <Button
